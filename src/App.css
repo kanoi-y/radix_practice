@@ -1,0 +1,21 @@
+.App {
+  background-color: #ccc;
+  width: 100vw;
+  height: 100vw;
+}
+
+.PopoverTrigger {
+  background-color: white;
+  border-radius: 4px;
+}
+
+.PopoverContent {
+  border-radius: 4px;
+  padding: 20px;
+  width: 260px;
+  background-color: white;
+}
+
+.PopoverArrow {
+  fill: white;
+}
